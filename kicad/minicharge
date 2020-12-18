@@ -1,0 +1,17 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 C2 ,2,10u,Capacitors_SMD:C_0805_HandSoldering,~
+C3 ,1,100n,Capacitors_SMD:C_0603_HandSoldering,~
+D1 D2 ,2,LED,LEDs:LED_0603_HandSoldering,~
+J1 ,1,USB_OTG,myowndevice:usb5s_flip, ~
+J2 ,1,BAT2,Pin_Headers:Pin_Header_Angled_1x02_Pitch2.54mm,~
+J3 ,1,BAT,Pin_Headers:Pin_Header_Angled_1x02_Pitch2.54mm,~
+JP1 JP2 JP3 ,3,Jumper_NO_Small,Pin_Headers:Pin_Header_Angled_1x02_Pitch2.54mm,~
+Q1 ,1,IRLML6402,TO_SOT_Packages_SMD:SOT-23,https://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c
+Q2 ,1,irlml2502,TO_SOT_Packages_SMD:SOT-23,https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+R1 ,1,30k,Resistors_SMD:R_0603_HandSoldering,~
+R2 ,1,10k,Resistors_SMD:R_0603_HandSoldering,~
+R3 ,1,2k,Resistors_SMD:R_0603_HandSoldering,~
+R4 ,1,0R5,Resistors_SMD:R_1206_HandSoldering,~
+R5 R6 ,2,1k,Resistors_SMD:R_0603_HandSoldering,~
+R7 R8 ,2,100k,Resistors_SMD:R_0603_HandSoldering,~
+U1 ,1,TP4056,Housings_SOIC:SOIC-8-1EP_3.9x4.9mm_Pitch1.27mm,
